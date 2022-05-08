@@ -1,7 +1,7 @@
 ### Hello my name is Hudson Rodrigues 👋
 
 
-- 🔭 I'm currently looking for internships in frontend
+- 🔭 I'm currently looking for internships in front end
 - 🌱 I'm currently learning front end
 - 📫 Contact me: hudsonrsc@gmail.com
 
