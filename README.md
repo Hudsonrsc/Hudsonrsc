@@ -36,7 +36,6 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  <img src="https://img.shields.io/badge/Status-Seeking%20Internship-success?style=for-the-badge" alt="Status" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hudsonrsc&show_icons=true&theme=dark)
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonrsc&layout=compact&theme=dark)
