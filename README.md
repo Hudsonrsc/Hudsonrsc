@@ -31,6 +31,6 @@
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
 | **ClimaTempo** | Dashboard de clima em tempo real com consumo de API e tratamento de estados. | HTML, Tailwind CSS, JavaScript | [Repositório](https://github.com/Hudsonrsc/ClimaTempoComTailwind) \| [Deploy](https://climatempocomtailwind.vercel.app/) |
-| **Portfólio Pessoal** | Landing page responsiva apresentando meus projetos e rotina de estudos. | HTML, Tailwind CSS | [Repositório](#) \| [Deploy](#) |
+| **Portfólio Pessoal** | Landing page responsiva apresentando meus projetos e rotina de estudos. | HTML, Tailwind CSS | [Repositório](https://github.com/Hudsonrsc/portfolio) \| [Deploy](https://hudson-rodrigues.vercel.app/) |
 
 
