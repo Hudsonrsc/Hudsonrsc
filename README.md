@@ -20,8 +20,8 @@
 ---
 
 ### 📌 Sobre mim
-- 🔭 Atualmente em busca de oportunidades de **estágio em Front-end**.
-- 💻 Estudando Análise e Desenvolvimento de Sistemas e aprofundando em arquitetura componentizada, JavaScript Assíncrono e Tailwind CSS.
+- 🔭 Atualmente em busca de oportunidades de **júnior em Front-end**.
+- 💻 Graduado em Análise e Desenvolvimento de Sistemas e aprofundando em arquitetura componentizada, JavaScript Assíncrono e Tailwind CSS e React.
 - 📫 **Contato:** hudsonrsc@gmail.com | [LinkedIn](https://linkedin.com/in/hudsonrsc)
 
 ---
@@ -37,6 +37,6 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hudsonrsc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonrsc&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hudsonrsc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonrsc&layout=compact&langs_count=7&theme=dark&hide_border=true" />
 </div>
