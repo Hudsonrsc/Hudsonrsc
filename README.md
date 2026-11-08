@@ -33,9 +33,4 @@
 | **ClimaTempo** | Dashboard de clima em tempo real com consumo de API e tratamento de estados. | HTML, Tailwind CSS, JavaScript | [Repositório](https://github.com/Hudsonrsc/ClimaTempoComTailwind) \| [Deploy](https://climatempocomtailwind.vercel.app/) |
 | **Portfólio Pessoal** | Landing page responsiva apresentando meus projetos e rotina de estudos. | HTML, Tailwind CSS | [Repositório](#) \| [Deploy](#) |
 
----
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hudsonrsc&show_icons=true&theme=dark)
-
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonrsc&layout=compact&theme=dark)
