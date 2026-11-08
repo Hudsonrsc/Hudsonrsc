@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>Olá, eu sou o Hudson Rodrigues 👋</h1>
   <p><b>Desenvolvedor Front-end em formação</b> | Apaixonado por criar interfaces modernas, limpas e responsivas.</p>
@@ -29,7 +30,7 @@
 
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
-| **ClimaTempo** | Dashboard de clima em tempo real com consumo de API e tratamento de estados. | HTML, Tailwind CSS, JavaScript | [Repositório](#) \| [Deploy](#) |
+| **ClimaTempo** | Dashboard de clima em tempo real com consumo de API e tratamento de estados. | HTML, Tailwind CSS, JavaScript | [Repositório](https://github.com/Hudsonrsc/ClimaTempoComTailwind) \| [Deploy](https://climatempocomtailwind.vercel.app/) |
 | **Portfólio Pessoal** | Landing page responsiva apresentando meus projetos e rotina de estudos. | HTML, Tailwind CSS | [Repositório](#) \| [Deploy](#) |
 
 ---
