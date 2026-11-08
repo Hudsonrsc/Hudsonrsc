@@ -1,26 +1,41 @@
-### Hello my name is Hudson Rodrigues 👋
-
-
-- 🔭 I'm currently looking for internships in front end
-- 🌱 I'm currently learning front end
-- 📫 Contact me: hudsonrsc@gmail.com
-
-
 <div align="center">
-  <a href="https://github.com/hudsonrsc">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=hudsonrsc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" widht="110em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonrsc&layout=compact&langs_count=7&theme=dark"/>
+  <h1>Olá, eu sou o Hudson Rodrigues 👋</h1>
+  <p><b>Desenvolvedor Front-end em formação</b> | Apaixonado por criar interfaces modernas, limpas e responsivas.</p>
 </div>
 
+---
 
+### 🛠️ Tecnologias & Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" alt="GitHub" />
+</div>
 
+---
 
-<div style="display: inline_block"><br>
+### 📌 Sobre mim
+- 🔭 Atualmente em busca de oportunidades de **estágio em Front-end**.
+- 💻 Estudando Análise e Desenvolvimento de Sistemas e aprofundando em arquitetura componentizada, JavaScript Assíncrono e Tailwind CSS.
+- 📫 **Contato:** hudsonrsc@gmail.com | [LinkedIn](https://linkedin.com/in/hudsonrsc)
 
-<img align="center" alt="Rafa-Js" height="30" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />      
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
+
+### 🚀 Meus Principais Projetos
+
+| Projeto | Descrição | Tecnologias | Links |
+| :--- | :--- | :--- | :--- |
+| **ClimaTempo** | Dashboard de clima em tempo real com consumo de API e tratamento de estados. | HTML, Tailwind CSS, JavaScript | [Repositório](#) \| [Deploy](#) |
+| **Portfólio Pessoal** | Landing page responsiva apresentando meus projetos e rotina de estudos. | HTML, Tailwind CSS | [Repositório](#) \| [Deploy](#) |
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hudsonrsc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonrsc&layout=compact&langs_count=7&theme=dark"/>
 </div>
